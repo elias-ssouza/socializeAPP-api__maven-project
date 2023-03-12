@@ -1,10 +1,14 @@
 ### Primeira versão
-##### - Construção da API
+##### - Construção de uma API para um app de rede social baseado no twitter (feito)
+
 ### Segunda versão
-##### - Realização dos Testes
+##### - Realização dos Testes (feito)
+
 ### Terceira versão
-##### - Refatoração do código e criação do service
+##### - Refatoração do código e criação do service (feito)
+
 ### Quarta versão
-##### - Documentando com Open Api e Swagger
+##### - Documentando com Open Api e Swagger (feito)
+
 ### Quinta versão
-##### - Trabalhando com Spring Security
+##### - Trabalhando com Spring Security (feito)
